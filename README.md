@@ -3,7 +3,9 @@
                     .....::     PE Parser v1.0.0     ::.....
                     
 -Read Headers
+<br>
 -Read Sections
+<br>
 -Read DLL Imports
 
 <br>
