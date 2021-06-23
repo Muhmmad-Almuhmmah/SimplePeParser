@@ -12,4 +12,9 @@ Examples:
 <br>
    PEParser.exe pe -HEADERS [read all Headers]
 
+<br>
+<br>
+Example -> PEParser PEParser.exe -HEADERS
+<br>
+![image](https://user-images.githubusercontent.com/36629152/123094447-926e7600-d435-11eb-9395-9aa093405743.png)
 
