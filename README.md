@@ -1,6 +1,6 @@
 # SimplePeParser
 ## Pe Parser Win32 Files exe and dll files [Headers,Sections,DLL Imports]
-                    .....::     PE Parser v1.0.0     ::.....
+.....::     PE Parser v1.0.0     ::.....
                     
 -Read Headers
 <br>
